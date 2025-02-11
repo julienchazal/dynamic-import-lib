@@ -1,6 +1,6 @@
 {
 	"name": "@jchazal/dynamic-import-lib",
-	"version": "0.0.1",
+	"version": "0.0.11",
 	"repository": "https://github.com/julienchazal/dynamic-import-lib",
 	"scripts": {
 		"dev": "vite dev",
